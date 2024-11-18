@@ -1,2 +1,2 @@
-# nitro-gen
-nitro gen
+START SETUP.BAT 
+PYTHON 3.1O+
